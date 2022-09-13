@@ -1,0 +1,5 @@
+pt-BR:
+  welcome: 'Seja Bem-Vindo!'
+  date:
+    formats:
+      default: '%d/%m/%Y'
